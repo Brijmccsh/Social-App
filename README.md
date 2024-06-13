@@ -1,6 +1,4 @@
-# stonks-assignment
-
-Stonks Backend API
+# Stonks Backend API
 This project implements a backend API using Node.js, Express, and PostgreSQL for a social media platform.
 
 Features
