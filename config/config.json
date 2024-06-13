@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "profile_user",
+    "password": "password123",
+    "database": "profile_management",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
